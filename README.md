@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/cakto_logo.png" alt="Cakto" width="260"/>
+</div>
+
 # desafio-cakto-split-engine
 
 Mini Split Engine + Ledger + Outbox — Teste Prático Backend Sênior (Cakto)
@@ -82,6 +86,8 @@ python manage.py test payments.tests --verbosity=2
 ```
 
 14 testes, todos passando.
+
+![Healthcheck](docs/healthcheck.png)
 
 ---
 
