@@ -157,4 +157,4 @@ Todo o código foi revisado e validado: os 14 testes passam localmente (`python 
 
 Branch: `feature/payment-split-ledger` → `main`
 
-> Abra o PR em: https://github.com/phpenterprise/desafio-cakto-split-engine/pull/new/feature/payment-split-ledger
+> https://github.com/phpenterprise/desafio-cakto-split-engine/pull/2
