@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/cakto_logo.png" alt="Cakto" width="260"/>
+</div>
+
 # desafio-cakto-split-engine
 
 Mini Split Engine + Ledger + Outbox — Teste Prático Backend Sênior (Cakto)
@@ -83,6 +87,8 @@ python manage.py test payments.tests --verbosity=2
 
 14 testes, todos passando.
 
+![Healthcheck](docs/healthcheck.png)
+
 ---
 
 ## Decisões técnicas
@@ -151,4 +157,4 @@ Todo o código foi revisado e validado: os 14 testes passam localmente (`python 
 
 Branch: `feature/payment-split-ledger` → `main`
 
-> Abra o PR em: https://github.com/phpenterprise/desafio-cakto-split-engine/pull/new/feature/payment-split-ledger
+> https://github.com/phpenterprise/desafio-cakto-split-engine/pull/2
