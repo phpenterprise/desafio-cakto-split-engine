@@ -1,0 +1,4 @@
+Django==5.2.12
+djangorestframework==3.17.0
+psycopg2-binary==2.9.10
+python-decouple==3.8
